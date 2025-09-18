@@ -27,6 +27,107 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
+    1: {
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂',
+    }
+
+    2: {
+        api: 'https://cj.rycjapi.com/api.php/provide/vod',
+        name: '如意资源',
+    }
+
+    3: {
+        api: 'https://bfzyapi.com/api.php/provide/vod',
+        name: '暴风资源',
+    }
+
+    4: {
+        api: 'http://ffzy5.tv/api.php/provide/vod',
+        name: '非凡影视',
+    }
+
+    5: {
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod',
+        name: '卧龙资源',
+    }
+
+    6: {
+        api: 'https://tyyszyapi.com/api.php/provide/vod',
+        name: '天涯影视',
+    }
+
+    7: {
+        api: 'https://jszyapi.com/api.php/provide/vod/',
+        name: '极速资源',
+    }
+
+    8: {
+        api: 'https://mozhuazy.com/api.php/provide/vod/',
+        name: '魔爪资源',
+    }
+
+    9: {
+        api: 'https://api.zuidapi.com/api.php/provide/vod',
+        name: '最大资源',
+    }
+
+    10: {
+        api: 'https://ww.tyyszy5.com/api.php/provide/vod',
+        name: '旺旺短剧',
+    }
+
+    11: {
+        api: 'https://caiji.dbzy.tv/api.php/provide/vod',
+        name: '豆瓣资源',
+    }
+
+    12: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '魔都资源',
+    }
+
+    13: {
+        api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+        name: '樱花资源',
+    }
+
+    14: {
+        api: 'https://api.wujinapi.me/api.php/provide/vod',
+        name: '无尽资源',
+    }
+
+    15: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
+        name: '茅台资源',
+    }
+
+    16: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙资源',
+    }
+
+    17: {
+        api: 'http://154.219.117.232:9981/jacloudapi.php/provide/vod/',
+        name: '建安资源',
+    }
+
+    18: {
+        api: 'https://api.maoyanapi.top/api.php/provide/vod',
+        name: '猫眼资源',
+    }
+
+    19: {
+        api: 'https://fqzy.me//api.php/provide/vod',
+        name: '番茄资源',
+    }
+
+    20: {
+        api: 'https://api.wwzy.tv/api.php/provide/vod',
+        name: '旺旺资源',
+    }
+
+  
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
