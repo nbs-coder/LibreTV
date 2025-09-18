@@ -27,102 +27,102 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     }
-    1: {
+    dytt: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂',
     }
 
-    2: {
+    ryzy: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     }
 
-    3: {
+    bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
     }
 
-    4: {
+    ffys: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
     }
 
-    5: {
+    wlzy: {
         api: 'https://collect.wolongzy.cc/api.php/provide/vod',
         name: '卧龙资源',
     }
 
-    6: {
+    tyys: {
         api: 'https://tyyszyapi.com/api.php/provide/vod',
         name: '天涯影视',
     }
 
-    7: {
+    jszy: {
         api: 'https://jszyapi.com/api.php/provide/vod/',
         name: '极速资源',
     }
 
-    8: {
+    yzzy: {
         api: 'https://mozhuazy.com/api.php/provide/vod/',
         name: '魔爪资源',
     }
 
-    9: {
+    zdzy: {
         api: 'https://api.zuidapi.com/api.php/provide/vod',
         name: '最大资源',
     }
 
-    10: {
+    wwdj: {
         api: 'https://ww.tyyszy5.com/api.php/provide/vod',
         name: '旺旺短剧',
     }
 
-    11: {
+    dbzy: {
         api: 'https://caiji.dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     }
 
-    12: {
+    mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
     }
 
-    13: {
+    yhzy: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源',
     }
 
-    14: {
+    wjzy: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
         name: '无尽资源',
     }
 
-    15: {
+    mtzy: {
         api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
         name: '茅台资源',
     }
 
-    16: {
+    hyzy: {
         api: 'https://www.huyaapi.com/api.php/provide/vod',
         name: '虎牙资源',
     }
 
-    17: {
+    jazy: {
         api: 'http://154.219.117.232:9981/jacloudapi.php/provide/vod/',
         name: '建安资源',
     }
 
-    18: {
+    myzy: {
         api: 'https://api.maoyanapi.top/api.php/provide/vod',
         name: '猫眼资源',
     }
 
-    19: {
+    fqzy: {
         api: 'https://fqzy.me//api.php/provide/vod',
         name: '番茄资源',
     }
 
-    20: {
+    wwzy: {
         api: 'https://api.wwzy.tv/api.php/provide/vod',
         name: '旺旺资源',
     }
